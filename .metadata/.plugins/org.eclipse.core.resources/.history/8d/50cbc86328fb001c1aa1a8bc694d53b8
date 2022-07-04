@@ -1,0 +1,5 @@
+package org.danna.olguin.gomez.controller;
+
+public class HomeController {
+
+}

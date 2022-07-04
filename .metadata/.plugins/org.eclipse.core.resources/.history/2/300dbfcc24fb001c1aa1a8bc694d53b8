@@ -1,0 +1,5 @@
+package org.danna.olguin.gomez.model;
+
+public class Categoria {
+
+}

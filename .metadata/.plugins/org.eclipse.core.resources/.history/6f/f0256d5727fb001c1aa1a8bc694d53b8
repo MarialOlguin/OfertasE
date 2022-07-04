@@ -1,0 +1,51 @@
+package org.danna.olguin.gomez.service;
+
+import java.util.List;
+
+import org.danna.olguin.gomez.model.Categoria;
+
+public class CategoriaServiceImp implements IntCategoria {
+
+	@Override
+	public List<Categoria> obtenerTodas() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void agregar(Categoria categoria) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Categoria buscarPorId(Integer idCategoria) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void eliminar(Integer idCategoria) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public int totalCategorias() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void modificar(Integer posicion, Categoria categoria) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public int buscarPosicion(Categoria categoria) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

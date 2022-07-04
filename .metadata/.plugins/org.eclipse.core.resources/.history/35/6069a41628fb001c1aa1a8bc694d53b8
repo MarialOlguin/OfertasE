@@ -1,0 +1,39 @@
+package org.danna.olguin.gomez.service;
+
+import java.util.List;
+
+import org.danna.olguin.gomez.model.Vacante;
+
+public class VacanteServiceImp implements IntVacante {
+
+	@Override
+	public List<Vacante> obtenerTodas() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void guardar(Vacante vacante) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void eliminar(Integer idVacante) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Vacante buscarPorId(Integer idVacante) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public long numeroVacantes() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
